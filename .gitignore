@@ -1,0 +1,15 @@
+# Godot 4+ specific ignores
+dist/
+data_*/
+addons/
+.godot/
+.import/
+/android/
+
+*.vs
+*.tmp
+*.DS_Store
+*.translation
+*blend1
+
+export.cfg
